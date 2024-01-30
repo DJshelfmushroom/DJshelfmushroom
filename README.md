@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi! I'm DJshelfmushroom, a student at Grant High School in Portland, OR.
+I am working on python now (boring) but it should be fun.
 <!--
 **DJshelfmushroom/DJshelfmushroom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
